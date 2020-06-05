@@ -1,11 +1,19 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
-    }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "48.0"
+  "packageDirectories" : [ {
+    "path" : "QATESTMODULE",
+    "default" : true,
+    "package" : "QATESTMODULE",
+    "versionName" : "QATESTMODULE",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "force-app",
+    "default" : false
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "48.0",
+  "packageAliases" : {
+    "QATESTMODULE" : "0Ho2x000000TNeMCAW",
+    "QATESTMODULE@1.0.0.0" : "04t2x000003LzA7AAK"
+  }
 }
