@@ -1,30 +1,27 @@
 {
-    "packageDirectories": [
-        {
-            "path": "QATESTMODULE",
-            "default": true,
-            "package": "QATESTMODULE",
-            "versionName": "QATESTMODULE",
-            "versionNumber": "1.0.0.0"
-        },
-        {
-            "path": "force-app",
-            "default": false
-        },
-        {
-            "path": "QATESTMODULE",
-            "package": "myunloacked",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        }
-    ],
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "48.0",
-    "packageAliases": {
-        "QATESTMODULE": "0Ho2x000000TNeMCAW",
-        "QATESTMODULE@1.0.0.0": "04t2x000003LzA7AAK",
-        "myunloacked": "0Ho2x000000TNeRCAW"
-    }
+  "packageDirectories" : [ {
+    "path" : "QATESTMODULE",
+    "default" : false,
+    "package" : "myunloacked",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "force-app",
+    "default" : false
+  }, {
+    "path" : "QATESTMODULE",
+    "default" : true,
+    "package" : "QATESTMODULE",
+    "versionName" : "QATESTMODULE",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "48.0",
+  "packageAliases" : {
+    "QATESTMODULE" : "0Ho2x000000TNeMCAW",
+    "QATESTMODULE@1.0.0.0" : "04t2x000003LzA7AAK",
+    "myunloacked" : "0Ho2x000000TNeRCAW",
+    "myunloacked@1.0.0.0" : "04t2x000003M0IYAA0"
+  }
 }
