@@ -1,9 +1,15 @@
 {
   "packageDirectories" : [ {
     "path" : "ganjiqaPG",
-    "default" : true,
+    "default" : false,
     "package" : "ganjiqaPG",
     "versionName" : "ganjiqaPG",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "test",
+    "default" : true,
+    "package" : "test",
+    "versionName" : "test",
     "versionNumber" : "1.0.0.0"
   } ],
   "namespace" : "",
@@ -11,6 +17,8 @@
   "sourceApiVersion" : "48.0",
   "packageAliases" : {
     "ganjiqaPG" : "0Ho2x000000CaYTCA0",
-    "ganjiqaPG@1.0.0.0" : "04t2x0000025evPAAQ"
+    "ganjiqaPG@1.0.0.0" : "04t2x0000025evPAAQ",
+    "test" : "0Ho2x000000TNeHCAW",
+    "test@1.0.0.0" : "04t2x000003Lz1mAAC"
   }
 }
