@@ -1,5 +1,11 @@
 {
   "packageDirectories" : [ {
+    "path" : "Suryatest",
+    "default" : true,
+    "package" : "Suryatest",
+    "versionName" : "Suryatest",
+    "versionNumber" : "1.0.0.0"
+  }, {
     "path" : "QATESTMODULE",
     "default" : false,
     "package" : "myunloacked",
@@ -10,7 +16,7 @@
     "default" : false
   }, {
     "path" : "QATESTMODULE",
-    "default" : true,
+    "default" : false,
     "package" : "QATESTMODULE",
     "versionName" : "QATESTMODULE",
     "versionNumber" : "1.0.0.0"
@@ -22,6 +28,8 @@
     "QATESTMODULE" : "0Ho2x000000TNeMCAW",
     "QATESTMODULE@1.0.0.0" : "04t2x000003LzA7AAK",
     "myunloacked" : "0Ho2x000000TNeRCAW",
-    "myunloacked@1.0.0.0" : "04t2x000003M0IYAA0"
+    "myunloacked@1.0.0.0" : "04t2x000003M0IYAA0",
+    "Suryatest" : "0Ho2x000000TNeWCAW",
+    "Suryatest@1.0.0.0" : "04t2x000003M0IdAAK"
   }
 }

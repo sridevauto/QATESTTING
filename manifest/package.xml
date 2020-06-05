@@ -6,20 +6,4 @@
         <members>ChangePasswordControllerTest</members>
         <name>ApexClass</name>
     </types>
-    <types>
-        <members>SiteFooter</members>
-        <members>SitePoweredBy</members>
-        <name>ApexComponent</name>
-    </types>
-    <types>
-        <members>AnswersHome</members>
-        <members>BandwidthExceeded</members>
-        <members>ChangePassword</members>
-        <members>StdExceptionTemplate</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>SiteSamples</members>
-        <name>StaticResource</name>
-    </types>
 </Package>
